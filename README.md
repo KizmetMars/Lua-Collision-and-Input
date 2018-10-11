@@ -4,7 +4,7 @@ Code from a simple LOVE Lua tutorial.
 # Prerequisites
 Download and install LOVE from https://love2d.org/#download. 
 
-# Deployment
+# How to Run
 The file will need to be run through LOVE, comprehensive instructions can be found here: https://love2d.org/wiki/Getting_Started
 
 # Built With
